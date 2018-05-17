@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1,IT: RAI 1 HD
-http://217.182.173.184:8000/live/micha/micha/3049.ts
-#EXTINF:-1,IT: RAI 2 HD
-http://217.182.173.184:8000/live/micha/micha/3042.ts
+
+
 #EXTINF:-1,IT: Rai 3 HD
 http://217.182.173.184:8000/live/micha/micha/10525.ts
 #EXTINF:-1,IT: RAI 4
@@ -978,15 +976,12 @@ http://mypanel.tv:8080/live/silas/silas/9347.ts
 http://mypanel.tv:8080/live/silas/silas/9346.ts
 #EXTINF:-1,Sky Primafila 4 HD IT
 http://mypanel.tv:8080/live/silas/silas/9345.ts
-#EXTINF:-1,Sky Primafila 5 HD IT
-http://mypanel.tv:8080/live/silas/silas/9344.ts
-#EXTINF:-1,Sky Primafila 6 HD IT
-http://mypanel.tv:8080/live/silas/silas/9343.ts
+
+
 #EXTINF:-1,Sky Primafila 7 HD IT
 http://mypanel.tv:8080/live/silas/silas/9342.ts
 #EXTINF:-1,Sky Primafila 8 HD IT
-http://mypanel.tv:8080/live/silas/silas/9341.ts
-#EXTINF:-1,Sky Primafila 9 HD IT
+
 http://mypanel.tv:8080/live/silas/silas/9340.ts
 #EXTINF:-1,Sky Primafila 10 HD IT
 http://mypanel.tv:8080/live/silas/silas/9339.ts
